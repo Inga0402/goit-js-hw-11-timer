@@ -11,7 +11,7 @@
   
   body {
     align-items: center;
-    background-color: #ffd54f;
+    background-color:plum;
     display: flex;
     font-family: -apple-system, 
       BlinkMacSystemFont, 
@@ -26,7 +26,7 @@
   
   .timer {
     display: flex;
-    color: #333;
+    color: purple;
     margin: 0 auto;
     text-align: center;
   }
